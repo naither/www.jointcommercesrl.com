@@ -1,0 +1,25 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+.logo-slider{
+    width: 590px;
+    /* margin-bottom: 31px; */
+    /* top: 0px; */
+    margin-top: 60px;
+}
+
+.logo {
+    max-height: 100% !important;
+}
+
+@media (max-width: 990px){
+    nav.transparent .logo-light {
+        width: 228px !important;
+    }
+    
+     nav.transparent .logo-dark {
+        width: 228px !important;
+    }   
+.logo-slider{
+   display: none;
+}
+}
