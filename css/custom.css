@@ -23,3 +23,16 @@
    display: none;
 }
 }
+
+/* Owl Carousel Bootstrap Custom CSS */
+
+/*  Owl */
+#owl-demo .item{
+	margin: 4px;
+}
+#owl-demo .item img{
+	display: block;
+	width: 100%;
+	height: auto;
+    border-radius: 10px;
+}
